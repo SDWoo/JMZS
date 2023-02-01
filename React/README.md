@@ -37,4 +37,20 @@
   <tr>
     <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day02/%ED%95%A8%EC%88%98%ED%98%95%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EC%9D%98%20%EC%9E%A5%EC%A0%90.md">함수형 컴포넌트의 장점에 대해 설명해주세요.</a></td>
   </tr>
+  <tr>
+    <td rowspan="5">3</td>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day03/%EB%9D%BC%EC%9D%B4%ED%94%84%EC%82%AC%EC%9D%B4%ED%81%B4%20%EB%A9%94%EC%86%8C%EB%93%9C%EC%97%90%20%EB%8C%80%ED%95%9C%20%EC%84%A4%EB%AA%85.md">라이프사이클 메소드에 대해 설명해주세요.</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day03/%EB%9D%BC%EC%9D%B4%ED%94%84%EC%82%AC%EC%9D%B4%ED%81%B4%EC%97%90%20%EB%8C%80%ED%95%9C%20%EC%84%A4%EB%AA%85.md">라이프사이클에 대해 설명해주세요.</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day03/React%20Hooks%EC%97%90%20%EB%8C%80%ED%95%9C%20%EC%84%A4%EB%AA%85.md">React Hooks에 대해 설명해주세요.</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day03/%ED%95%A8%EC%88%98%ED%98%95%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EC%97%90%EC%84%9C%20%ED%81%B4%EB%9E%98%EC%8A%A4%ED%98%95%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EC%9D%98%20%EB%9D%BC%EC%9D%B4%ED%94%84%20%EC%82%AC%EC%9D%B4%ED%81%B4%20%EB%A9%94%EC%86%8C%EB%93%9C%EB%A5%BC%20%EB%B9%84%EC%8A%B7%ED%95%98%EA%B2%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95%EC%97%90%20%EB%8C%80%ED%95%9C%20%EC%84%A4%EB%AA%85.md">함수형 컴포넌트에서 클래스형 컴포넌트의 라이프 사이클 메소드를 비슷하게 사용하는 방법에 대해 설명해주세요.</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day03/useEffect%EC%99%80%20useLayoutEffect%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md">useEffect와 useLayoutEffect의 차이점에 대해 설명해주세요.</a></td>
+  </tr>
 </table>
