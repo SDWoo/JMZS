@@ -53,4 +53,27 @@
   <tr>
     <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day03/useEffect%EC%99%80%20useLayoutEffect%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md">useEffect와 useLayoutEffect의 차이점에 대해 설명해주세요.</a></td>
   </tr>
+  <tr>
+    <td rowspan="7">4</td>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day04/pure%20component%EC%97%90%20%EB%8C%80%ED%95%9C%20%EC%84%A4%EB%AA%85.md">Pure Component에 대해 설명해주세요.</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day04/shouldComponentUpdate%EC%97%90%20%EB%8C%80%ED%95%9C%20%EC%84%A4%EB%AA%85.md">shouldComponentUpdate에 대해 설명해주세요.</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day04/State%EC%97%90%20%EB%8C%80%ED%95%9C%20%EC%84%A4%EB%AA%85.md">State에 대해 설명해주세요.</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day04/%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%97%90%EC%84%9C%EC%9D%98%20state%20%EA%B4%80%EB%A6%AC.md">React에서 State를 어떻게 관리하나요?</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day04/props%EC%97%90%20%EB%8C%80%ED%95%9C%20%EC%84%A4%EB%AA%85.md">Props에 대해 설명해주세요.</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day04/props%20drilling%EC%97%90%20%EB%8C%80%ED%95%9C%20%EC%84%A4%EB%AA%85.md">Props Drilling에 대해 설명해주세요.</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day04/props%20drilling%20%ED%95%B4%EA%B2%B0%20%EB%B0%A9%EC%95%88.md">Props Drilling을 어떻게 해결할 수 있나요?</a></td>
+  </tr>
+   <tr>
 </table>
