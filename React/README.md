@@ -76,4 +76,19 @@
     <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day04/props%20drilling%20%ED%95%B4%EA%B2%B0%20%EB%B0%A9%EC%95%88.md">Props Drilling을 어떻게 해결할 수 있나요?</a></td>
   </tr>
    <tr>
+    <td rowspan="5">5</td>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day05/%EC%9E%90%EC%8B%9D%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC%20%EB%B6%80%EB%AA%A8%EB%A1%9C%20%EC%A0%84%EB%8B%AC.md">데이터를 자식에서 부모로도 전달할 수 있나요?</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day05/props%EC%99%80%20state%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md">Props와 State의 차이에 대해 설명해주세요.</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day05/setState(useState)%EC%9D%98%20%EC%82%AC%EC%9A%A9%20%EC%9D%B4%EC%9C%A0.md">왜 state를 직접 바꾸지 않고 setState (useState)를 사용해야 하나요?</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day05/React%EC%9D%98%20%EC%83%81%ED%83%9C%20%EB%B3%80%ED%99%94%20%EA%B0%90%EC%A7%80.md">React 에서 상태 변화가 생겼을 때, 변화를 어떻게 알아채는지에 대해 설명해주세요.</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day05/state%EC%9D%98%20%EB%B6%88%EB%B3%80%EC%84%B1%20%EC%9C%A0%EC%A7%80%20%EB%B0%A9%EB%B2%95.md">React에서 State의 불변성은 어떻게 유지할 수 있나요?</a></td>
+  </tr>
 </table>
