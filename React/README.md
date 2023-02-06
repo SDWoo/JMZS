@@ -91,4 +91,20 @@
   <tr>
     <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day05/state%EC%9D%98%20%EB%B6%88%EB%B3%80%EC%84%B1%20%EC%9C%A0%EC%A7%80%20%EB%B0%A9%EB%B2%95.md">React에서 State의 불변성은 어떻게 유지할 수 있나요?</a></td>
   </tr>
+  <tr>
+    <td rowspan="5">6</td>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day06/HOC%20(Higher-Order%20Components)%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94..md">HOC (Higher-Order Components)에 대해 설명해주세요.</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day06/Context%20API%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94..md">Context API에 대해 설명해주세요.</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day06/React.Fragment%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94..md">React.Fragment에 대해 설명해주세요.</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day06/Portal%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94..md">Portal에 대해 설명해주세요.</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day06/%EC%97%90%EB%9F%AC%20%EB%B0%94%EC%9A%B4%EB%8D%94%EB%A6%AC%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94..md">에러 바운더리에 대해 설명해주세요.</a></td>
+  </tr>
 </table>
