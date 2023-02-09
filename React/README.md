@@ -113,38 +113,38 @@
 
   <tr>
     <td rowspan="5">7</td>
-    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day06/HOC%20(Higher-Order%20Components)%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94..md">HOC (Higher-Order Components)에 대해 설명해주세요.</a></td>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day07/HOC%20(Higher-Order%20Components)%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94..md">HOC (Higher-Order Components)에 대해 설명해주세요.</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day06/Context%20API%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94..md">Context API에 대해 설명해주세요.</a></td>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day07/Context%20API%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94..md">Context API에 대해 설명해주세요.</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day06/React.Fragment%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94..md">React.Fragment에 대해 설명해주세요.</a></td>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day07/React.Fragment%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94..md">React.Fragment에 대해 설명해주세요.</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day06/Portal%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94..md">Portal에 대해 설명해주세요.</a></td>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day07/Portal%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94..md">Portal에 대해 설명해주세요.</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day06/%EC%97%90%EB%9F%AC%20%EB%B0%94%EC%9A%B4%EB%8D%94%EB%A6%AC%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94..md">에러 바운더리에 대해 설명해주세요.</a></td>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day07/%EC%97%90%EB%9F%AC%20%EB%B0%94%EC%9A%B4%EB%8D%94%EB%A6%AC%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94..md">에러 바운더리에 대해 설명해주세요.</a></td>
   </tr>
 
   <tr>
     <td rowspan="6">8</td>
-    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day07/%EB%A9%94%EB%AA%A8%EC%9D%B4%EC%A0%9C%EC%9D%B4%EC%85%98%20%EC%84%A4%EB%AA%85.md">메모이제이션에 대해 설명해주세요.</a></td>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day08/%EB%A9%94%EB%AA%A8%EC%9D%B4%EC%A0%9C%EC%9D%B4%EC%85%98%20%EC%84%A4%EB%AA%85.md">메모이제이션에 대해 설명해주세요.</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day07/%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%97%90%EC%84%9C%EC%9D%98%20%EB%A9%94%EB%AA%A8%EC%9D%B4%EC%A0%9C%EC%9D%B4%EC%85%98%20%ED%99%9C%EC%9A%A9.md">리액트에서 메모이제이션을 어떤 방식으로 활용할 수 있나요?</a></td>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day08/%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%97%90%EC%84%9C%EC%9D%98%20%EB%A9%94%EB%AA%A8%EC%9D%B4%EC%A0%9C%EC%9D%B4%EC%85%98%20%ED%99%9C%EC%9A%A9.md">리액트에서 메모이제이션을 어떤 방식으로 활용할 수 있나요?</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day07/useMemo%2C%20useCallback%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md">useMemo와 useCallback에 대해 설명해주세요.</a></td>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day08/useMemo%2C%20useCallback%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md">useMemo와 useCallback에 대해 설명해주세요.</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day07/React.memo%2C%20useMemo%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md">React.memo와 useMemo의 차이에 대해 설명해주세요.</a></td>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day08/React.memo%2C%20useMemo%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md">React.memo와 useMemo의 차이에 대해 설명해주세요.</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day07/%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%9D%98%20%EB%A0%8C%EB%8D%94%EB%A7%81%20%EC%84%B1%EB%8A%A5%20%ED%96%A5%EC%83%81%20%EB%B0%A9%EB%B2%95.md">리액트의 렌더링 성능 향상을 위해 어떻게 해야 하나요?</a></td>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day08/%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%9D%98%20%EB%A0%8C%EB%8D%94%EB%A7%81%20%EC%84%B1%EB%8A%A5%20%ED%96%A5%EC%83%81%20%EB%B0%A9%EB%B2%95.md">리액트의 렌더링 성능 향상을 위해 어떻게 해야 하나요?</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day07/CSS%20in%20JS%20%EC%82%AC%EC%9A%A9%20%EB%B0%8F%20%EB%8A%90%EB%82%80%EC%A0%90.md">CSS in JS를 사용해 본 적이 있나요? 있다면 소감을 말해주세요.</a></td>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day08/CSS%20in%20JS%20%EC%82%AC%EC%9A%A9%20%EB%B0%8F%20%EB%8A%90%EB%82%80%EC%A0%90.md">CSS in JS를 사용해 본 적이 있나요? 있다면 소감을 말해주세요.</a></td>
   </tr>
 </table>
