@@ -96,6 +96,23 @@
 
   <tr>
     <td rowspan="5">6</td>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day06/setState%EB%8A%94%20%EC%99%9C%20%EB%B9%84%EB%8F%99%EA%B8%B0%EC%A0%81%EC%9C%BC%EB%A1%9C%20%EB%8F%99%EC%9E%91%ED%95%98%EB%82%98%EC%9A%94.md">setState는 동기적으로 동작하나요? 아니면 비동기적으로 동작하나요?</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day06/HTML%EA%B3%BC%20React%EC%9D%98%20%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%EC%B2%98%EB%A6%AC%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md">HTML과 React의 이벤트 처리 차이점에 대해 설명해주세요.</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day06/key%20props%EB%A5%BC%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%20%EC%9D%B4%EC%9C%A0.md">Key Props를 사용하는 이유에 대해 설명해주세요.</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day06/ref%EC%9D%98%20%EC%9A%A9%EB%8F%84.md">Ref의 용도에 대해 설명해주세요.</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day06/%EC%A0%9C%EC%96%B4%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EC%99%80%20%EB%B9%84%EC%A0%9C%EC%96%B4%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EC%9D%98%20%EC%B0%A8%EC%9D%B4.md">제어 컴포넌트와 비제어 컴포넌트의 차이에 대해 설명해주세요.</a></td>
+  </tr>
+
+  <tr>
+    <td rowspan="5">7</td>
     <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day06/HOC%20(Higher-Order%20Components)%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94..md">HOC (Higher-Order Components)에 대해 설명해주세요.</a></td>
   </tr>
   <tr>
@@ -112,7 +129,7 @@
   </tr>
 
   <tr>
-    <td rowspan="6">7</td>
+    <td rowspan="6">8</td>
     <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day07/%EB%A9%94%EB%AA%A8%EC%9D%B4%EC%A0%9C%EC%9D%B4%EC%85%98%20%EC%84%A4%EB%AA%85.md">메모이제이션에 대해 설명해주세요.</a></td>
   </tr>
   <tr>
