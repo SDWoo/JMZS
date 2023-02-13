@@ -147,4 +147,60 @@
   <tr>
     <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day08/CSS%20in%20JS%20%EC%82%AC%EC%9A%A9%20%EB%B0%8F%20%EB%8A%90%EB%82%80%EC%A0%90.md">CSS in JS를 사용해 본 적이 있나요? 있다면 소감을 말해주세요.</a></td>
   </tr>
+
+  <tr>
+    <td rowspan="5">9</td>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day08/%EB%A9%94%EB%AA%A8%EC%9D%B4%EC%A0%9C%EC%9D%B4%EC%85%98%20%EC%84%A4%EB%AA%85.md">React 18 버전 업데이트 내용에 대해 말씀해주세요.</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day08/%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%97%90%EC%84%9C%EC%9D%98%20%EB%A9%94%EB%AA%A8%EC%9D%B4%EC%A0%9C%EC%9D%B4%EC%85%98%20%ED%99%9C%EC%9A%A9.md">Client Side Routing에 대해 설명해주세요.</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day08/useMemo%2C%20useCallback%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md">Next.js 에 대해 설명해주세요</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day08/React.memo%2C%20useMemo%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md">React에서 Form 이벤트는 어떻게 제어하셨나요?</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day08/CSS%20in%20JS%20%EC%82%AC%EC%9A%A9%20%EB%B0%8F%20%EB%8A%90%EB%82%80%EC%A0%90.md">React에서 컴포넌트 A가 사용하는 CSS파일과 컴포넌트 B가 사용하는 CSS파일의 선택자가 겹치는 이유가 뭘까요?</a></td>
+  </tr>
+
+  <tr>
+    <td rowspan="13">10</td>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day08/%EB%A9%94%EB%AA%A8%EC%9D%B4%EC%A0%9C%EC%9D%B4%EC%85%98%20%EC%84%A4%EB%AA%85.md">Redux에 대해 설명해주세요.</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day08/%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%97%90%EC%84%9C%EC%9D%98%20%EB%A9%94%EB%AA%A8%EC%9D%B4%EC%A0%9C%EC%9D%B4%EC%85%98%20%ED%99%9C%EC%9A%A9.md"> Redux를 사용하는 이유에 대해 설명해주세요</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day08/useMemo%2C%20useCallback%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md">Redux의 장단점에 대해 설명해주세요.</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day08/React.memo%2C%20useMemo%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md">Flux 패턴에 대해 설명해주세요.</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day08/CSS%20in%20JS%20%EC%82%AC%EC%9A%A9%20%EB%B0%8F%20%EB%8A%90%EB%82%80%EC%A0%90.md">Context API와 Redux를 비교해주세요.</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day08/%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%97%90%EC%84%9C%EC%9D%98%20%EB%A9%94%EB%AA%A8%EC%9D%B4%EC%A0%9C%EC%9D%B4%EC%85%98%20%ED%99%9C%EC%9A%A9.md"> Redux의 3대 원칙에 대해 설명해주세요.</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day08/useMemo%2C%20useCallback%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md">Recoil을 사용해보셨나요?</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day08/React.memo%2C%20useMemo%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md">Recoil에 대해 설명해주세요.</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day08/CSS%20in%20JS%20%EC%82%AC%EC%9A%A9%20%EB%B0%8F%20%EB%8A%90%EB%82%80%EC%A0%90.md">Recoil에서 Loadable의 개념에 대해 설명해주세요.</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day08/useMemo%2C%20useCallback%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md">Recoil에서 비동기로 데이터를 받아올 때 State를 어떻게 관리하셨나요?</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day08/React.memo%2C%20useMemo%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md">Recoil에서 로딩, 성공, 에러와 관련된 처리를 어떻게 하셨나요?</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/React/day08/CSS%20in%20JS%20%EC%82%AC%EC%9A%A9%20%EB%B0%8F%20%EB%8A%90%EB%82%80%EC%A0%90.md">Redux와 Recoil에 대해 비교 설명해주세요. (개념, 장단점)</a></td>
+  </tr>
+
 </table>
