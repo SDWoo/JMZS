@@ -22,6 +22,25 @@
     <td><a href="https://github.com/SDWoo/JMZS/blob/main/JavaScript/day12/%EC%BD%9C%EB%B0%B1%20%EC%A7%80%EC%98%A5%EC%9D%84%20%ED%95%B4%EA%B2%B0%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95%EC%9D%84%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94.md">콜백 지옥을 해결하는 방법을 설명해주세요.</a></td>
   </tr>
   <tr>
+    <td rowspan="6">13</td>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/JavaScript/day13/Promise%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94.md">Promise에 대해 설명해주세요.</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/JavaScript/day13/Promise.all()%20%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94.md">Promise.all() 에 대해 설명해주세요.</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/JavaScript/day13/Promise%EC%99%80%20Callback%EB%A5%BC%20%EB%B9%84%EA%B5%90%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94.md">Promise와 Callback를 비교 설명해주세요.</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/JavaScript/day13/Async%2C%20Await%EC%9D%B4%20%EB%AD%94%EC%A7%80%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%EC%82%AC%EC%9A%A9%20%EB%B0%A9%EB%B2%95%EC%9D%84%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94.md">Async, Await이 뭔지 그리고 사용 방법을 설명해주세요.</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/JavaScript/day13/Promise%EC%99%80%20Async%2C%20Await%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EB%A5%BC%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94.md">Promise와 Async, Await의 차이를 설명해주세요.</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/JavaScript/day13/AJAX%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94.md">AJAX에 대해 설명해주세요.</a></td>
+  </tr>
+  <tr>
     <td rowspan="6">14</td>
     <td><a href="https://github.com/SDWoo/JMZS/blob/main/JavaScript/day14/var%2C%20let%2C%20const%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94.md"> var, let, const 차이를 설명해주세요.</a></td>
   </tr>
