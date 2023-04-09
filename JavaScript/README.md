@@ -61,22 +61,22 @@
   </tr>
   <tr>
     <td rowspan="6">16</td>
-    <td><a href=""> 자바스크립트에서 일어나는 데이터 형변환에 대해 설명해주세요.</a></td>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/JavaScript/day16/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C%20%EC%9D%BC%EC%96%B4%EB%82%98%EB%8A%94%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%98%95%EB%B3%80%ED%99%98%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94.md"> 자바스크립트에서 일어나는 데이터 형변환에 대해 설명해주세요.</a></td>
   </tr>
   <tr>
-    <td><a href="">자바스크립트가 동적 언어인 이유는 무엇인가요?</a></td>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/JavaScript/day16/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EA%B0%80%20%EB%8F%99%EC%A0%81%20%EC%96%B8%EC%96%B4%EC%9D%B8%20%EC%9D%B4%EC%9C%A0%EB%8A%94%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94.md">자바스크립트가 동적 언어인 이유는 무엇인가요?</a></td>
   </tr>
   <tr>
-    <td><a href="">프로토타입에 대해 설명해주세요.</a></td>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/JavaScript/day16/%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94.md">프로토타입에 대해 설명해주세요.</a></td>
   </tr>
   <tr>
-    <td><a href="">깊은 복사와 얕은 복사에 대해 설명해주세요.</a></td>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/JavaScript/day16/%EA%B9%8A%EC%9D%80%20%EB%B3%B5%EC%82%AC%EC%99%80%20%EC%96%95%EC%9D%80%20%EB%B3%B5%EC%82%AC%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94.md">깊은 복사와 얕은 복사에 대해 설명해주세요.</a></td>
   </tr>
   <tr>
-    <td><a href="">불변성을 유지하려면 어떻게 해야하나요?</a></td>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/JavaScript/day16/%EB%B6%88%EB%B3%80%EC%84%B1%EC%9D%84%20%EC%9C%A0%EC%A7%80%ED%95%98%EB%A0%A4%EB%A9%B4%20%EC%96%B4%EB%96%BB%EA%B2%8C%20%ED%95%B4%EC%95%BC%ED%95%98%EB%82%98%EC%9A%94.md">불변성을 유지하려면 어떻게 해야하나요?</a></td>
   </tr>
   <tr>
-    <td><a href="">ES6에서 새로 생긴 기능을 아는대로 말씀해주세요.</a></td>
+    <td><a href="https://github.com/SDWoo/JMZS/blob/main/JavaScript/day16/ES6%EC%97%90%EC%84%9C%20%EC%83%88%EB%A1%9C%20%EC%83%9D%EA%B8%B4%20%EA%B8%B0%EB%8A%A5%EC%9D%84%20%EC%95%84%EB%8A%94%EB%8C%80%EB%A1%9C%20%EB%A7%90%EC%94%80%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94.md">ES6에서 새로 생긴 기능을 아는대로 말씀해주세요.</a></td>
   </tr>
   <tr>
     <td rowspan="8">17</td>
