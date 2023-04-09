@@ -60,6 +60,25 @@
     <td><a href="https://github.com/SDWoo/JMZS/blob/main/JavaScript/day14/%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%EC%9C%84%EC%9E%84%EC%9D%98%20%EB%8F%99%EC%9E%91%20%EB%B0%A9%EC%8B%9D%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94.md">이벤트 위임의 동작 방식에 대해서 설명해주세요.</a></td>
   </tr>
   <tr>
+    <td rowspan="6">16</td>
+    <td><a href=""> 자바스크립트에서 일어나는 데이터 형변환에 대해 설명해주세요.</a></td>
+  </tr>
+  <tr>
+    <td><a href="">자바스크립트가 동적 언어인 이유는 무엇인가요?</a></td>
+  </tr>
+  <tr>
+    <td><a href="">프로토타입에 대해 설명해주세요.</a></td>
+  </tr>
+  <tr>
+    <td><a href="">깊은 복사와 얕은 복사에 대해 설명해주세요.</a></td>
+  </tr>
+  <tr>
+    <td><a href="">불변성을 유지하려면 어떻게 해야하나요?</a></td>
+  </tr>
+  <tr>
+    <td><a href="">ES6에서 새로 생긴 기능을 아는대로 말씀해주세요.</a></td>
+  </tr>
+  <tr>
     <td rowspan="8">17</td>
     <td><a href="https://github.com/SDWoo/JMZS/blob/main/JavaScript/day17/Blocking%EA%B3%BC%20Non-Blocking%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94%20copy.md">Blocking과 Non-Blocking에 대해 설명해주세요.</a></td>
   </tr>
